@@ -11,3 +11,16 @@ DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              -
 DEBUG 2014-09-06 12:22:21,769 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.SmartCookWebApiModule, SmartCook.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-06 12:22:21,770 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.Web.SmartCookWebModule, SmartCook.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 DEBUG 2014-09-06 12:22:22,385 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
+DEBUG 2014-09-10 15:19:42,610 [1    ] Abp.Modules.AbpModuleLoader              - Loading Abp modules...
+DEBUG 2014-09-10 15:19:42,648 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,648 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Modules.AbpStartupModule, Abp, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,650 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Startup.Infrastructure.EntityFramework.AbpEntityFrameworkModule, Abp.Infrastructure.EntityFramework, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,652 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Startup.AbpWebModule, Abp.Web, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,652 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.WebApi.Startup.AbpWebApiModule, Abp.Web.Api, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,654 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: Abp.Web.Mvc.Startup.AbpWebMvcModule, Abp.Web.Mvc, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,859 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.SmartCookCoreModule, SmartCook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,859 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.SmartCookApplicationModule, SmartCook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,860 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.SmartCookDataModule, SmartCook.Infrastructure.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,861 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.SmartCookWebApiModule, SmartCook.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,861 [1    ] Abp.Modules.AbpModuleLoader              - Loaded module: SmartCook.Web.SmartCookWebModule, SmartCook.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2014-09-10 15:19:42,967 [1    ] Abp.Modules.AbpModuleLoader              - 11 modules loaded.
